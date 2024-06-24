@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://newsweb.wrteam.me/</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/categories-view/:catid</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/tag/:tagid</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/breaking-news/:bnewsid</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/breaking-news-view</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/video-news-view/:vid</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/bookmark</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/news/:newsid/:catid</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/view-all/:id</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/categories</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/live-news</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/notification</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/news-notification</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/persnol-notification</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/user-based-categories</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/more-pages</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/create-news</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/manage-news</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/edit-news</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+<url> <loc>https://newsweb.wrteam.me/profile-update</loc> <changefreq>daily</changefreq> <priority>0.8</priority> </url>
+</urlset>
